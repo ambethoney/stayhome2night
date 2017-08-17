@@ -1,0 +1,23 @@
+{
+  "name": "stayhome2night",
+  "version": "1.0.0",
+  "description": "A twitter bot that gives questionable reasons for you to stay home.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ambethoney/stayhome2night.git"
+  },
+  "author": "abethoney",
+  "license": "MIT",
+  "homepage": "https://github.com/ambethoney/stayhome2night#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "twit": "^2.2.9"
+  },
+  "engines": {
+    "node" : "6.9.1"
+  }
+}
